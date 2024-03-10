@@ -1,0 +1,3 @@
+SpringBootApp
+projectId=Long(ID)
+projectName=String

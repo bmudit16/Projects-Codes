@@ -1,0 +1,16 @@
+{
+    "First Name":"Mudit",
+    "LastName":"Bhatnagar",
+    "Gender":"Male",
+    "Profession":"Software Developer",
+    "Experience (inYears)":2,
+    "location":{
+        "current Location":"Chandigarh",
+        "Home Town":"Hapur"
+    },
+    "Education":{
+        "Highest Qualification":"B. Tech",
+        "Branch":"Mechanical Engineering"
+    }
+
+}
